@@ -1,0 +1,48 @@
+html, body 
+{
+	margin: 0 auto;
+	background: white;
+	width :100%;
+	height :100%;
+}
+
+#fond
+{
+	width : 100%;
+	height : 100%;
+}
+
+.bloc
+{
+	float: left;
+	height : 100%;
+}
+
+#blocRouge
+{
+	width: 100%;
+	height:25%;
+	background:red;
+}
+
+#blocNoir
+{
+	width: 100%;
+	height :25%;
+	background : black;
+}
+
+#blocBleu
+{
+	width: 12.5%;
+	height :50%;
+	background:blue;
+	
+}
+
+#blocVert
+{
+	width: 12.5%;
+	height :50%;
+	background:green;
+}
